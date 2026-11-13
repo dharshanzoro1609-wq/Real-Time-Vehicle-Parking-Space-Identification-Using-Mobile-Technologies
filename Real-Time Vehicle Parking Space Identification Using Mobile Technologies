@@ -1,0 +1,68 @@
+
+# REAL-TIME VEHICLE PARKING SPACE IDENTIFICATION USING MOBILE TECHNOLOGIES
+
+## Project Overview
+This project aims to develop a smart parking management system that helps users identify available and occupied parking spaces in real time.
+
+The system uses IoT-based sensor data and mobile-friendly web technologies to display parking slot availability and allow users to reserve available parking spaces.
+
+## Main Modules
+1. User Management
+2. Parking Slot Management
+3. Parking Reservation
+4. IoT and Database Management
+
+## Main Features
+- User Registration and Login
+- Secure User Authentication
+- Real-Time Parking Slot Status
+- Available and Occupied Slot Identification
+- Parking Slot Reservation
+- Database Management
+- Mobile-Friendly Website
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- Spring Boot
+- MySQL
+- JDBC
+- Spring Data JPA
+- Hibernate
+
+## Working Principle
+1. Users register and log in to the website.
+2. The system displays available and occupied parking spaces.
+3. Users select an available parking slot.
+4. The selected slot can be reserved.
+5. Parking slot information is maintained in the database.
+6. IoT sensor data updates the parking slot status.
+
+## Applications
+- Shopping Malls
+- Colleges and Universities
+- Hospitals
+- Office Buildings
+- Public Parking Areas
+
+## Advantages
+- Saves parking search time
+- Reduces unnecessary vehicle movement
+- Improves parking space utilization
+- Provides easy parking reservations
+- Simplifies parking management
+
+## Project Type
+Java Full-Stack Web Application with IoT Integration
+
+## Objective
+To develop an efficient smart parking system that identifies available parking spaces and provides convenient reservation facilities through mobile technologies.
+
+## Future Scope
+- Mobile Application Integration
+- Online Payment Integration
+- GPS-Based Parking Navigation
+- Live IoT Sensor Integration
+- Advanced Parking Analytics
